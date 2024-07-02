@@ -62,7 +62,7 @@
 #### [ step 1 ] :
 - clone the repository
 ``` 
-git clone https://github.com/padmaja2305/engage-face_recognition.git
+git clone URL
 ```
 #### [ step 2 ] :
 - Open terminal and navigate to the directory
@@ -90,12 +90,6 @@ pip install -r requirment.txt
 ```
 python manage.py runserver
 ```
-#### [ step 7 ] :
-- Open browser and navigate to http://127.0.0.1:8000/
-
-<!-- > Hosted on Digital Ocean
-- Browse to https://padmaja.live -->
-
 <br>
 
 ### Admin Credentials
